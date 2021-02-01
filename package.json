@@ -1,0 +1,14 @@
+{
+  "name": "weatherproject-main",
+  "version": "1.0.0",
+  "description": "A simple app that displays the weather and a weather icon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Banuelos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
